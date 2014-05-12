@@ -1,0 +1,1 @@
+Please download the latest version for Aspose.Words from http://www.aspose.com/community/files/default.aspx for free.
