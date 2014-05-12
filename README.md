@@ -2,8 +2,8 @@
 <p>Sitefinity is a modern ASP.NET based web Content Management System (CMS), delivering intuitive web content management and robust development environment for business professionals.&nbsp;Here are the projects we have created for this popular CMS</p>
 <ol>
 <li>
-<h4><a href="https://asposesitefinity.codeplex.com/wikipage?title=Sitefinity%20Export%20to%20Microsoft%20Word%20and%20PDF%20using%20Aspose.Words">Sitefinity Export to Microsoft Word and PDF using Aspose.Words</a></h4>
-Aspose Sitefinity Content Export Add-on allow users to export online content into Microsoft Word or Adobe Acrobat PDF document using Aspose.Words&nbsp;... <a href="https://asposesitefinity.codeplex.com/wikipage?title=Sitefinity%20Export%20to%20Microsoft%20Word%20and%20PDF%20using%20Aspose.Words"> Continue reading &rarr;</a></li>
+<h4><a href="https://github.com/asposemarketplace/Aspose_for_Sitefinity/blob/master/Aspose%20SiteFinity%20Content%20Export.md">Sitefinity Export to Microsoft Word and PDF using Aspose.Words</a></h4>
+Aspose Sitefinity Content Export Add-on allow users to export online content into Microsoft Word or Adobe Acrobat PDF document using Aspose.Words&nbsp;... <a href="https://github.com/asposemarketplace/Aspose_for_Sitefinity/blob/master/Aspose%20SiteFinity%20Content%20Export.md"> Continue reading &rarr;</a></li>
 </ol>
 <p>&nbsp;</p>
 <hr />
