@@ -1,14 +1,14 @@
 <div>
 <h2>Sitefinity Export to Microsoft Word and PDF using Aspose.Words</h2>
 <p>Aspose Sitefinity Content Export Add-on allow users to export online content into Microsoft Word or Adobe Acrobat PDF document using <a href="http://www.aspose.com/word-component-suite.aspx">Aspose.Words</a>. This Add-on makes it very simple and easy to have an offline copy of your favorite online content for editing, sharing and printing etc. in popular Microsoft Word Doc/Docx or PDF format. It adds simple <strong>Export to Word</strong> and <strong>Export to Pdf</strong> buttons at any desired location on the page and clicking the button dynamically exports the content of the page into Microsoft Word or PDF document. The exported file is then automatically presented for downloading to any disk location selected by the user in just couple of seconds.</p>
-<div id="attachment_14389"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-content-export-to-microsoft-word-and-pdf.png"><img title="Sitefinity content export to microsoft word and pdf" src="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-content-export-to-microsoft-word-and-pdf-300x128.png" alt="Sitefinity content export to microsoft word and pdf 300x128 Sitefinity Export to Microsoft Word and PDF using Aspose.Words" width="300" height="128" /></a>
-<p>Sitefinity Export to Microsoft Word and PDF using Aspose.Words</p>
+<div id="attachment_14389"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-content-export-to-microsoft-word-and-pdf.png"><img style="display: block; margin-left: auto; margin-right: auto;" title="Sitefinity content export to microsoft word and pdf" src="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-content-export-to-microsoft-word-and-pdf-300x128.png" alt="Sitefinity content export to microsoft word and pdf 300x128 Sitefinity Export to Microsoft Word and PDF using Aspose.Words" width="300" height="128" /></a>
+<p style="text-align: center;">Sitefinity Export to Microsoft Word and PDF using Aspose.Words</p>
 </div>
-<div id="attachment_14391"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-exported-microsoft-word-document-using-Aspose.Words_.png"><img title="Sitefinity exported Microsoft Word Document using Aspose.Words" src="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-exported-microsoft-word-document-using-Aspose.Words_-300x182.png" alt="Sitefinity exported microsoft word document using Aspose.Words  300x182 Sitefinity Export to Microsoft Word and PDF using Aspose.Words" width="300" height="182" /></a>
-<p>Sitefinity exported Microsoft Word Document using Aspose.Words</p>
+<div id="attachment_14391"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-exported-microsoft-word-document-using-Aspose.Words_.png"><img style="display: block; margin-left: auto; margin-right: auto;" title="Sitefinity exported Microsoft Word Document using Aspose.Words" src="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-exported-microsoft-word-document-using-Aspose.Words_-300x182.png" alt="Sitefinity exported microsoft word document using Aspose.Words  300x182 Sitefinity Export to Microsoft Word and PDF using Aspose.Words" width="300" height="182" /></a>
+<p style="text-align: center;">Sitefinity exported Microsoft Word Document using Aspose.Words</p>
 </div>
-<div id="attachment_14392"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-exported-pdf-document-using-Aspose.Words_.png"><img title="Sitefinity exported PDF Document using Aspose.Words" src="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-exported-pdf-document-using-Aspose.Words_-300x193.png" alt="Sitefinity exported pdf document using Aspose.Words  300x193 Sitefinity Export to Microsoft Word and PDF using Aspose.Words" width="300" height="193" /></a>
-<p>Sitefinity exported PDF Document using Aspose.Words</p>
+<div id="attachment_14392"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-exported-pdf-document-using-Aspose.Words_.png"><img style="display: block; margin-left: auto; margin-right: auto;" title="Sitefinity exported PDF Document using Aspose.Words" src="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Sitefinity-exported-pdf-document-using-Aspose.Words_-300x193.png" alt="Sitefinity exported pdf document using Aspose.Words  300x193 Sitefinity Export to Microsoft Word and PDF using Aspose.Words" width="300" height="193" /></a>
+<p style="text-align: center;">Sitefinity exported PDF Document using Aspose.Words</p>
 </div>
 <p>&nbsp;</p>
 <h2>Installing and Configuring the Aspose Sitefinity Content Export Add-on</h2>
@@ -40,7 +40,7 @@
 <li>When finished, click <em><strong>Save changes</strong></em>.<br /> The widget is registered in the toolbox and can be used in Sitefinity. The settings are also shown in the picture below</li>
 </ol>
 <p>&nbsp;</p>
-<div id="attachment_14394"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Registering-Aspose-Sitefinity-Content-Export-Add-on-in-Sitefinity.png"><img title="Registering Aspose Sitefinity Content Export Add-on in Sitefinity" src="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Registering-Aspose-Sitefinity-Content-Export-Add-on-in-Sitefinity-268x300.png" alt="Registering Aspose Sitefinity Content Export Add on in Sitefinity 268x300 Sitefinity Export to Microsoft Word and PDF using Aspose.Words" width="268" height="300" /></a>
+<div id="attachment_14394"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Registering-Aspose-Sitefinity-Content-Export-Add-on-in-Sitefinity.png"><img style="display: block; margin-left: auto; margin-right: auto;" title="Registering Aspose Sitefinity Content Export Add-on in Sitefinity" src="http://www.aspose.com/blogs/wp-content/uploads/2014/05/Registering-Aspose-Sitefinity-Content-Export-Add-on-in-Sitefinity-268x300.png" alt="Registering Aspose Sitefinity Content Export Add on in Sitefinity 268x300 Sitefinity Export to Microsoft Word and PDF using Aspose.Words" width="268" height="300" /></a>
 <p>Registering Aspose Sitefinity Content Export Add-on in Sitefinity</p>
 </div>
 <p>&nbsp;</p>
@@ -51,10 +51,12 @@
 <li>Navigate to the page where you want to add the Export Add-on. Make sure the page is opened in edit mode.</li>
 <li>From the right side <strong>Drag Widgets</strong> menu select Aspose Content Export and drag it into position.
 <p>&nbsp;</p>
-<div id="attachment_14396"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/05/using-Sitefinity-content-export-addon.png"><img title="Using Sitefinity content export Add-on" src="http://www.aspose.com/blogs/wp-content/uploads/2014/05/using-Sitefinity-content-export-addon-300x123.png" alt="using Sitefinity content export addon 300x123 Sitefinity Export to Microsoft Word and PDF using Aspose.Words" width="300" height="123" /></a>
-<p>Using Sitefinity content export Add-on</p>
+<div id="attachment_14396"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/05/using-Sitefinity-content-export-addon.png"><img style="display: block; margin-left: auto; margin-right: auto;" title="Using Sitefinity content export Add-on" src="http://www.aspose.com/blogs/wp-content/uploads/2014/05/using-Sitefinity-content-export-addon-300x123.png" alt="using Sitefinity content export addon 300x123 Sitefinity Export to Microsoft Word and PDF using Aspose.Words" width="300" height="123" /></a>
+<p style="text-align: center;">Using Sitefinity content export Add-on</p>
 </div>
 </li>
 </ol>
 <p>You have successfully added Aspose Sitefinity Content Export to your page. Two buttons, <strong>Export to Word</strong> and <strong>Export to Pdf</strong>, now appear on the page. Anyone can simply click on either of these buttons and export the content of the page into a Word or PDF document.</p>
 </div>
+<h2>Video</h2>
+<p>Please check <a href="https://www.youtube.com/watch?v=mopEZvGn_30">the video</a> below to see it in action.</p>
