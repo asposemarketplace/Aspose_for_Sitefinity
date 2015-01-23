@@ -1,0 +1,93 @@
+#GoogleToUmbracoSyncSettigns table, .settingDetails, #moduleMainDiv {
+    font-size: 12px;
+}
+
+.aspsoeGoogleSyncHome td {
+    text-align: center;
+    padding: 20px;
+    vertical-align: top;
+}
+
+.GoogleSyncSettingsTable td
+{
+    padding: 5px;
+}
+
+.aspsoeGoogleSyncHome img {
+    padding-bottom: 7px;
+}
+
+div.aspsoeGoogleSyncHome a, div.aspsoeGoogleSyncHome a:link {
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+div.aspsoeGoogleSync {
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 80px;
+}
+
+    div.aspsoeGoogleSync h2 {
+        font-size: 18px;
+    }
+
+table.rgMasterTable {
+}
+
+    table.rgMasterTable .rgHeader {
+        -moz-border-bottom-colors: none;
+        -moz-border-left-colors: none;
+        -moz-border-right-colors: none;
+        -moz-border-top-colors: none;
+        background: -moz-linear-gradient(center top, #fff 0%, #f0f2f1 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+        border-color: -moz-use-text-color #c9c9c9 #c9c9c9 -moz-use-text-color;
+        border-image: none;
+        border-style: none solid solid none;
+        border-width: 0 1px 1px 0;
+    }
+
+    table.rgMasterTable .rgHeader {
+        font-weight: bold;
+        padding: 6px 12px;
+        text-align: left;
+    }
+
+table.rgMasterTable {
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 12px;
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #c9c9c9;
+    color: #333;
+}
+
+    table.rgMasterTable td {
+        border-color: #fff;
+        cursor: pointer;
+        padding: 6px 12px;
+        border-color: #ccc;
+        border-style: solid;
+        border-width: 0 0 1px;
+        height: 21px;
+    }
+
+div.stepHeading {
+    border-bottom: 1px solid #c0c0c0;
+    font-size: 13px;
+    color: #333;
+    display: block;
+    font-family: Arial,Helvetica,sans-serif;
+    font-weight: bold;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.form-control {
+    width: 350px;
+}
+
+.errorMessage, .FormError {
+    color: red;
+}
