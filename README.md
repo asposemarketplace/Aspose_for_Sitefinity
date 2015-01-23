@@ -13,6 +13,14 @@
     </h4>
     Sitefinity Exchange Sync is an open source add-on from Aspose that links your Sitefinity users to Microsoft Exchange Server contacts without requiring any other software&nbsp;... <a href="https://github.com/asposemarketplace/Aspose_for_Sitefinity/blob/master/Aspose%20.NET%20Exchange%20Sync%20for%20Sitefinity.md"> Continue reading &rarr;</a>
   </li>
+  
+  
+    <li>
+    <h4>
+      <a href="https://github.com/asposemarketplace/Aspose_for_Sitefinity/blob/master/Aspose%20.NET%20Google%20Sync%20for%20Sitefinity.md">Sync Sitefinity Users with Google Contacts using Aspose .NET Google Sync for Sitefinity</a>
+    </h4>
+    Sitefinity Google Sync is an open source add-on from Aspose that links your Sitefinity users to Google/Gmail contacts without requiring any other software&nbsp;... <a href="https://github.com/asposemarketplace/Aspose_for_Sitefinity/blob/master/Aspose%20.NET%20Google%20Sync%20for%20Sitefinity.md"> Continue reading &rarr;</a>
+  </li>
 
 </ol>
 <p>&nbsp;</p>
