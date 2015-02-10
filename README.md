@@ -29,6 +29,14 @@
     </h4>
     Sitefinity Word Import is an open source add-on from Aspose that allow developers to get/read contents of any Word processing document without requiring any other software&nbsp;... <a href="https://github.com/asposemarketplace/Aspose_for_Sitefinity/blob/master/Aspose .NET Word Import for Sitefinity.md"> Continue reading &rarr;</a>
   </li>
+  
+  
+        <li>
+    <h4>
+      <a href="https://github.com/asposemarketplace/Aspose_for_Sitefinity/blob/master/Aspose%20.NET%20PDF%20Import%20for%20Sitefinity.md">Import PDF Documents to Sitefinity using Aspose .NET PDF Import for Sitefinity</a>
+    </h4>
+    Sitefinity PDF Import is an open source add-on from Aspose that allow developers to get/read contents of any PDF document without requiring any other software&nbsp;... <a href="https://github.com/asposemarketplace/Aspose_for_Sitefinity/blob/master/Aspose%20.NET%20PDF%20Import%20for%20Sitefinity.md"> Continue reading &rarr;</a>
+  </li>
 
 </ol>
 <p>&nbsp;</p>
